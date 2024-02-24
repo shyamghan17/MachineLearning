@@ -1,3 +1,257 @@
 
 *.csv
 BigData/Assignment/Loan_status_2007-2020Q3.gzip
+.DS_Store
+UNZIP_FOR_NOTEBOOKS_FINAL/.DS_Store
+UNZIP_FOR_NOTEBOOKS_FINAL/01-Python-Crash-Course/.ipynb_checkpoints/01-Python Crash Course-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/01-Python-Crash-Course/.ipynb_checkpoints/02-Python Crash Course Exercises-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/01-Python-Crash-Course/01-Python Crash Course.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/01-Python-Crash-Course/02-Python Crash Course Exercises.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/01-Python-Crash-Course/03-Python Crash Course Exercises - Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/.ipynb_checkpoints/00-NumPy-Arrays-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/.ipynb_checkpoints/02-NumPy-Operations-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/.ipynb_checkpoints/03-NumPy-Exercises-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/00-NumPy-Arrays.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/01-NumPy-Indexing-and-Selection.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/02-NumPy-Operations.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/03-NumPy-Exercises.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/04-NumPy-Exercises-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/axis_logic.png
+UNZIP_FOR_NOTEBOOKS_FINAL/02-Numpy/numpy_indexing.png
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/00-Series-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/01-DataFrames-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/02-Conditional-Filtering-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/02-Time-Shifting-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/03-Rolling-and-Expanding-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/03-Useful-Methods-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/04-Missing-Data-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/05-Groupby-Operations-and-MultiIndex-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/06-Combining-DataFrames-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/06-Pandas-Time-Series-Exercises-SET-ONE-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/07-Text-Methods-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/08-Time-Methods-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/08-Time-Series-with-Pandas-Project-Exercise-SET-TWO-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/09-Inputs-and-Outputs-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/10-Pivot-Tables-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/11-Pandas-Project-Exercise -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/12-Pandas-Project-Exercise-Solution-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/Datetime-Index-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/.ipynb_checkpoints/Time-Resampling-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/00-Series.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/01-DataFrames.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/02-Conditional-Filtering.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/03-Useful-Methods.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/04-Missing-Data.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/05-Groupby-Operations-and-MultiIndex.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/06-Combining-DataFrames.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/07-Text-Methods.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/08-Time-Methods.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/09-Inputs-and-Outputs.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/10-Pivot-Tables.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/11-Pandas-Project-Exercise .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/12-Pandas-Project-Exercise-Solution.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/__pycache__/pydbgen.cpython-36.pyc
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/example.xlsx
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/my_excel_file.xlsx
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/new_workbook.xlsx
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/reshaping_pivot.png
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/sample_table.html
+UNZIP_FOR_NOTEBOOKS_FINAL/03-Pandas/simple.html
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/00-Matplotlib-Basics-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/01-Matplotlib-Figures-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/02-Matplotlib-SubPlots-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/03-Matplotlib-Styling-Plots-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/04-Matplotlib Exercises -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/05-Matplotlib Exercises - Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/06-Additional-Matplotlib-Commands-NO_VIDEO-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/00-Matplotlib-Basics.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/01-Matplotlib-Figures.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/02-Matplotlib-SubPlots.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/03-Matplotlib-Styling-Plots.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/04-Matplotlib Exercises .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/05-Matplotlib Exercises - Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/06-Additional-Matplotlib-Commands-NO_VIDEO.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/example.png
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/figure.png
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/myfirstplot.png
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/new_figure.png
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/new_subplots.png
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/subplots.png
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/test.png
+UNZIP_FOR_NOTEBOOKS_FINAL/04-Matplotlib/Untitled.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/00-Scatter-Plots-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/01-Distribution-Plots-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/02-Categorical-Plots-Stat-Estimation-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/03-Categorical-Plots-Distributions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/04-Comparison-Plots-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/05-Seaborn-Grids-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/06-Matrix-Plots-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/07-Seaborn-Exercise-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/.ipynb_checkpoints/08-Seaborn-Exercise-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/00-Scatter-Plots.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/01-Distribution-Plots.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/02-Categorical-Plots-Stat-Estimation.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/03-Categorical-Plots-Distributions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/04-Comparison-Plots.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/05-Seaborn-Grids.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/06-Matrix-Plots.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/07-Seaborn-Exercise.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/08-Seaborn-Exercise-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/catplot_solution.png
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/DistPlot_solution.png
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/example_scatter.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/heatmap_solution.png
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/my_plot.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/05-Seaborn/task_one.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/06-Capstone-Project/.ipynb_checkpoints/00-Capstone-Project -checkpoint
+UNZIP_FOR_NOTEBOOKS_FINAL/06-Capstone-Project/.ipynb_checkpoints/00-Capstone-Project-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/06-Capstone-Project/.ipynb_checkpoints/01-Capstone-Project-Solutions -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/06-Capstone-Project/00-Capstone-Project.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/06-Capstone-Project/01-Capstone-Project-Solutions .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/07-Overview-of-Machine-Learning/Template.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/.ipynb_checkpoints/00-Intro-to-Simple-Linear-Regression-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/.ipynb_checkpoints/01-Linear-Regression-with-Scitkit-Learn-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/.ipynb_checkpoints/02-Polynomial-Regression-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/.ipynb_checkpoints/03-Regularization-Ridge-Lasso-ElasticNet-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/.ipynb_checkpoints/04-Linear-Regression-Project-DataSet -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/00-Intro-to-Simple-Linear-Regression.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/01-Linear-Regression-with-Scitkit-Learn.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/02-Polynomial-Regression.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/03-Regularization-Ridge-Lasso-ElasticNet.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/04-Linear-Regression-Project-DataSet .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/final_converter.joblib
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/final_poly_model.joblib
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/final_sales_model.joblib
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/poly_converter.joblib
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/sales_model.joblib
+UNZIP_FOR_NOTEBOOKS_FINAL/08-Linear-Regression-Models/sales_poly_model.joblib
+UNZIP_FOR_NOTEBOOKS_FINAL/09-Feature-Engineering/.ipynb_checkpoints/00-Dealing-with-Outliers-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/09-Feature-Engineering/.ipynb_checkpoints/01-Dealing-with-Missing-Data-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/09-Feature-Engineering/.ipynb_checkpoints/02-Dealing-with-Categorical-Data-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/09-Feature-Engineering/00-Dealing-with-Outliers.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/09-Feature-Engineering/01-Dealing-with-Missing-Data.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/09-Feature-Engineering/02-Dealing-with-Categorical-Data.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/.ipynb_checkpoints/00-Cross-Validation-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/.ipynb_checkpoints/01-Grid-Search-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/.ipynb_checkpoints/02-Linear-Regression-Project-Exercise-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/.ipynb_checkpoints/03-Linear-Regression-Project-Exercise-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/00-Cross-Validation.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/01-Grid-Search.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/02-Linear-Regression-Project-Exercise.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/03-Linear-Regression-Project-Exercise-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/10-Cross-Val-and-LinReg-Project/grid_search_cross_validation.png
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/.ipynb_checkpoints/00-Logistic-Regression-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/.ipynb_checkpoints/01-Multi-Class-Logistic-Regression-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/.ipynb_checkpoints/02-Logistic-Regression-Project-Exercise -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/.ipynb_checkpoints/03-Logistic-Regression-Project-Exercise-Solution-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/00-Logistic-Regression.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/01-Multi-Class-Logistic-Regression.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/11-Logistic-Regression-Models/03-Logistic-Regression-Project-Exercise-Solution.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/.ipynb_checkpoints/00-KNN-Classification-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/.ipynb_checkpoints/01-KNN-Exercise -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/.ipynb_checkpoints/02-KNN-Exercise-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/00-KNN-Classification.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/01-KNN-Exercise .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/02-KNN-Exercise-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/mine.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/12-K-Nearest-Neighbors/sonar.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/.ipynb_checkpoints/00-SVM-Classification-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/.ipynb_checkpoints/01-SVM-Regression-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/.ipynb_checkpoints/02-SVM-Project-Exercise-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/.ipynb_checkpoints/03-SVM-Project-Exercise-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/00-SVM-Classification.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/01-SVM-Regression.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/02-SVM-Project-Exercise.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/03-SVM-Project-Exercise-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/__pycache__/svm_margin_plot.cpython-37.pyc
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/__pycache__/svm_margin_plot.cpython-38.pyc
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/svm_margin_plot.py
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/Types_of_concrete_slump.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/13-Support-Vector-Machines/wine.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/14-Decision-Trees/.ipynb_checkpoints/00-Decision-Trees-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/14-Decision-Trees/00-Decision-Trees.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/14-Decision-Trees/penguin.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/.ipynb_checkpoints/00-Random-Forest-Classification-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/.ipynb_checkpoints/01-Random-Forest-Regression-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/00-Random-Forest-Classification.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/01-Random-Forest-Regression.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/boring.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/15-Random-Forests/penguin.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/16-Boosted-Trees/.ipynb_checkpoints/00-AdaBoost-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/16-Boosted-Trees/.ipynb_checkpoints/01-Gradient-Boosting-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/16-Boosted-Trees/00-AdaBoost.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/16-Boosted-Trees/01-Gradient-Boosting.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/16-Boosted-Trees/mushroom.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/.ipynb_checkpoints/00-Sup-Learning-Capstone-Tree-Methods -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/.ipynb_checkpoints/01-Sup-Learning-Capstone-Tree-Methods-SOLNs-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/00-Sup-Learning-Capstone-Tree-Methods .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/01-Sup-Learning-Capstone-Tree-Methods-SOLNs.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/cplot.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig1.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig10.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig11.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig2.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig3.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig5.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig6.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig7.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/fig9.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/figbar.png
+UNZIP_FOR_NOTEBOOKS_FINAL/17-Supervised-Learning-Capstone-Project/hugetree.png
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/.ipynb_checkpoints/00-Feature-Extraction-From-Text-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/.ipynb_checkpoints/01-Text-Classification-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/.ipynb_checkpoints/02-Text-Classification-Assessment -checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/.ipynb_checkpoints/03-Text-Classification-Assessment-Solution-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/00-Feature-Extraction-From-Text.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/01-Text-Classification.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/02-Text-Classification-Assessment .ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/03-Text-Classification-Assessment-Solution.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/One.txt
+UNZIP_FOR_NOTEBOOKS_FINAL/18-Naive-Bayes-and-NLP/Two.txt
+UNZIP_FOR_NOTEBOOKS_FINAL/19-Unsupervised-Learning-Overview/.ipynb_checkpoints/Blank on Purpose-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/19-Unsupervised-Learning-Overview/Blank on Purpose.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/.ipynb_checkpoints/00-Kmeans-Clustering-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/.ipynb_checkpoints/01-Kmeans-Color-Quantization-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/.ipynb_checkpoints/02-Kmeans-Clustering-Project-Exercise-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/.ipynb_checkpoints/03-Kmeans-Clustering-Project-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/00-Kmeans-Clustering.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/01-Kmeans-Color-Quantization.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/20-Kmeans-Clustering/03-Kmeans-Clustering-Project-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/21-Hierarchal-Clustering/.ipynb_checkpoints/00-Hierarchal-Clustering-Example-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/21-Hierarchal-Clustering/00-Hierarchal-Clustering-Example.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/21-Hierarchical-Clustering/.ipynb_checkpoints/00-Hierarchal-Clustering-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/21-Hierarchical-Clustering/00-Hierarchical-Clustering.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/.ipynb_checkpoints/00-DBSCAN-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/.ipynb_checkpoints/01-DBSCAN-Hyperparameters-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/.ipynb_checkpoints/02-DBSCAN-Project-Exercise-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/.ipynb_checkpoints/03-DBSCAN-Project-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/00-DBSCAN.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/01-DBSCAN-Hyperparameters.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/02-DBSCAN-Project-Exercise.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/22-DBSCAN/03-DBSCAN-Project-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/.ipynb_checkpoints/00-PCA-Manual-Implementation-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/.ipynb_checkpoints/01-PCA-Scikit-Learn-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/.ipynb_checkpoints/02-PCA-Exercise-Project-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/.ipynb_checkpoints/03-PCA-Exercise-Project-Solutions-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/01-PCA-Scikit-Learn.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/02-PCA-Exercise-Project.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/23-PCA-Principal-Component-Analysis/03-PCA-Exercise-Project-Solutions.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/.ipynb_checkpoints/00-Model-Persistence-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/.ipynb_checkpoints/01-Serving-Model-as-API-checkpoint.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/.ipynb_checkpoints/mynewapi-checkpoint.py
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/.ipynb_checkpoints/untitled-checkpoint.txt
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/00-Model-Persistence.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/01-Serving-Model-as-API.ipynb
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/api.py
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/col_names.pkl
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/column_names.pkl
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/final_model.pkl
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/mynewapi.py
+UNZIP_FOR_NOTEBOOKS_FINAL/24-Model-Deployment/untitled.txt
+UNZIP_FOR_NOTEBOOKS_FINAL/DATA/Ames_Housing_Feature_Description.txt
+UNZIP_FOR_NOTEBOOKS_FINAL/DATA/palm_trees.jpg
+UNZIP_FOR_NOTEBOOKS_FINAL/Pierian_Data_Logo.png
