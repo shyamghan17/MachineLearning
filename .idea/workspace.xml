@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003ae38d-d1d9-4111-800e-3218d73b4940" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MatPlotLib/mat_plot.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatPlotLib/figure1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tranning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tranning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatPlotLib/Matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MatPlotLib/Matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatPlotLib/mat_plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MatPlotLib/mat_plot.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
