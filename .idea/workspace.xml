@@ -5,39 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003ae38d-d1d9-4111-800e-3218d73b4940" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/depth error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/earthquake_type.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/gap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/magnitude.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/magnitude_scatter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/magnitude_type.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/magnityde_type2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/rms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/testfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desertation/Desertation/type.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reddit_scraping.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/1. data_collection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/1. data_collection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/2. data_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/2. data_visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/3. data_prepration &amp; feature_engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/3. data_prepration &amp; feature_engineering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/Gravity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/Gravity.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desertation/Desertation/five.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Desertation/Desertation/five.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Tranning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tranning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCA/PCA_IMP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PCA/PCA_IMP.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
